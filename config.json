@@ -1,0 +1,17 @@
+{
+    "knight": {
+        "health": 30,
+        "attack": 8,
+        "range": 1,
+        "attack_power": 10,
+        "armor": 5,
+        "sword": 1
+    },
+    "archer": {
+        "health": 20,
+        "attack": 5,
+        "range": 5,
+        "num_arrows": 10,
+        "arrow_damage": 2
+    }
+}
